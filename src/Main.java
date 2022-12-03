@@ -21,7 +21,7 @@ public class Main {
             System.out.println("Человек ходит на работу!");
         }
         //Задание №3
-        System.out.println("Звдвние №3");
+        System.out.println("Звдвние 3");
         int capacity = 102;
         int seatsCount = 60;
         int otherCount = capacity - seatsCount;
